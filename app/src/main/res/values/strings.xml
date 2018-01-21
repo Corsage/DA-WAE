@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DaWae</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_location">LocationActivity</string>
+
+    <!-- Location Activity -->
+    <string name="activity_location_to">TO</string>
+    <string name="activity_location_from">FROM</string>
+
+    <string name="activity_location_query_hint">Where do you want to go?</string>
+</resources>
